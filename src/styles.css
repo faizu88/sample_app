@@ -1,0 +1,64 @@
+/* You can add global styles to this file, and also import other style files */
+header {
+  height: 100vh;
+}
+
+/*.services{
+  margin-top: -150px;
+}*/
+
+.box-shadow {
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+}
+
+.inv-head {
+  font-weight: 300;
+}
+
+.company-logo {
+  height: 120px;
+  background-color: #f5f5f5;
+  width: 150px;
+  border-radius: 5px;
+  border: 1px solid #DCDCDC;
+}
+
+.company-logo-text {
+  display: block;
+  text-align: center;
+}
+
+.section-container {
+  background-color: #eee;
+}
+
+.invoice-wrap {
+  background-color: #fff;
+}
+
+.non-edit-text {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  padding: 10px;
+  min-width: 250px;
+
+}
+
+.bal-due {
+  background-color: #eee;
+}
+
+.total-val {
+  width: 190px;
+  text-align: left;
+}
+
+.form-inline .form-group .custom-select {
+  width: 190px;
+}
+
+.ui-fileupload-choose{
+  width: 150px;
+  margin-top: 5px;
+}
