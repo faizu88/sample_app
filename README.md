@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Demo
 
 <dl>
-  <dt><a href="https://faizu88.github.io/sample_app/" target="_blank">Demo</a></dt>
+  <a href="https://faizu88.github.io/sample_app/" target="_blank">Demo</a>
 </dl>
 
 ## Development server
